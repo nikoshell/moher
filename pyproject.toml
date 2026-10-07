@@ -1,0 +1,10 @@
+[project]
+name = "moher"
+version = "0.1.0"
+description = "Render 1-bit retro pixel-art scenes to video with an animated rounded-pixel reveal"
+license = "MIT"
+requires-python = ">=3.12"
+dependencies = ["numpy", "pillow", "wgpu>=0.19"]
+
+[tool.uv]
+package = false

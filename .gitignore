@@ -1,0 +1,6 @@
+out/
+.venv/
+__pycache__/
+dev.sh
+memory/
+.pi/
